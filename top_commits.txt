@@ -1,0 +1,91 @@
+=== Pull Requests sorted by NON-TEST C/C++ files changed ===
+
+PR # 4960 | Non-test C/C++ files: 150 / 153 | Commits:  1 | Head SHA: 16e6e50187da017a308b79c0a61ba53121ccb21f | Update REUSE
+    https://github.com/nlohmann/json/pull/4960
+
+PR # 4954 | Non-test C/C++ files:   7 /  11 | Commits: 35 | Head SHA: 0b1202b5974d599361ef84de6e701b56b681e763 | Fix CI
+    https://github.com/nlohmann/json/pull/4954
+
+PR # 4897 | Non-test C/C++ files:   6 /  20 | Commits: 14 | Head SHA: 1c5c8d3dd938e02f27675e438018ed97d4b04e3a | Fix Windows CI
+    https://github.com/nlohmann/json/pull/4897
+
+PR # 4963 | Non-test C/C++ files:   4 /   6 | Commits:  4 | Head SHA: 71c0e165e185fe4160c6f2b63bf852b3ed76064c | Add char8_t* overload for _json and _json_pointer
+    https://github.com/nlohmann/json/pull/4963
+
+PR # 4921 | Non-test C/C++ files:   4 /  10 | Commits:  1 | Head SHA: 12c53b1f4958a1dab5697c3960a199788d3ef112 | chore: fix typos
+    https://github.com/nlohmann/json/pull/4921
+
+PR # 4957 | Non-test C/C++ files:   2 /   2 | Commits:  5 | Head SHA: 81d859f5a93241405ffef811338d0ce931191597 | Address CWG issue 2521
+    https://github.com/nlohmann/json/pull/4957
+
+PR # 4896 | Non-test C/C++ files:   2 /   2 | Commits:  1 | Head SHA: 2869e1d2edb0b75d1eec5f52d2caf5ef34557037 | Fix Clang-Tidy
+    https://github.com/nlohmann/json/pull/4896
+
+PR # 5029 | Non-test C/C++ files:   0 /  12 | Commits:  1 | Head SHA: ecb7ac3ada062d1a834bb638b136725d3c68ce12 | ⬆️ Bump step-security/harden-runner from 2.13.3 to 2.14.0
+    https://github.com/nlohmann/json/pull/5029
+
+PR # 5028 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: a632cc890254d594baa8a2edf325932a0bca067d | ⬆️ Bump lukka/get-cmake from 4.2.0 to 4.2.1
+    https://github.com/nlohmann/json/pull/5028
+
+PR # 5027 | Non-test C/C++ files:   0 /   4 | Commits:  1 | Head SHA: 427f1cf64bc2cbfa53d2456feb341e2c02dc5f44 | ⬆️ Bump github/codeql-action from 4.31.6 to 4.31.7
+    https://github.com/nlohmann/json/pull/5027
+
+PR # 5025 | Non-test C/C++ files:   0 /  10 | Commits:  1 | Head SHA: 0ae75e8ac30bd104bd096c79da806ffdbd17532d | ⬆️ Bump actions/checkout from 6.0.0 to 6.0.1
+    https://github.com/nlohmann/json/pull/5025
+
+PR # 5024 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: c931eb11d964d8bbfb65d02c4ae44e1817930dc9 | ⬆️ Bump actions/stale from 10.1.0 to 10.1.1
+    https://github.com/nlohmann/json/pull/5024
+
+PR # 5021 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: d12603708f72cac8337ce5523e2adf840b31e641 | docs: improve clarity and formatting in documentation generation section
+    https://github.com/nlohmann/json/pull/5021
+
+PR # 5020 | Non-test C/C++ files:   0 /  12 | Commits:  1 | Head SHA: ee028d1064d0eb100d70c82466eb16378f59d6f4 | ⬆️ Bump step-security/harden-runner from 2.13.2 to 2.13.3
+    https://github.com/nlohmann/json/pull/5020
+
+PR # 5019 | Non-test C/C++ files:   0 /   4 | Commits:  1 | Head SHA: e832f91477cf9ab4a137e9477f2b7d630fe71016 | ⬆️ Bump github/codeql-action from 4.31.4 to 4.31.6
+    https://github.com/nlohmann/json/pull/5019
+
+PR # 5008 | Non-test C/C++ files:   0 /  10 | Commits:  1 | Head SHA: 235d4a3a69db4200e466dc138aee1728bb50281c | ⬆️ Bump actions/checkout from 5.0.1 to 6.0.0
+    https://github.com/nlohmann/json/pull/5008
+
+PR # 5007 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: c10bd7fd80f5ec0950068bf6008292f00cbf31ba | ⬆️ Bump lukka/get-cmake from 4.1.2 to 4.2.0
+    https://github.com/nlohmann/json/pull/5007
+
+PR # 5003 | Non-test C/C++ files:   0 /   4 | Commits:  1 | Head SHA: 9c11bc46cfa9d76146aeb7ff6c55ed3267b87605 | ⬆️ Bump github/codeql-action from 4.31.3 to 4.31.4
+    https://github.com/nlohmann/json/pull/5003
+
+PR # 5001 | Non-test C/C++ files:   0 /  10 | Commits:  1 | Head SHA: 7edd0da991577b89dfae34d84087bb78e020d5d1 | ⬆️ Bump actions/checkout from 5.0.0 to 5.0.1
+    https://github.com/nlohmann/json/pull/5001
+
+PR # 5000 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 6311263e152059d653c7732e743c1c455040f566 | ⬆️ Bump coverallsapp/github-action from 2.3.6 to 2.3.7
+    https://github.com/nlohmann/json/pull/5000
+
+PR # 4997 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 4b8db07c6dd19f08622918a16cde4e6dd81de1bd | Handle 'moved' events in serve_header.py
+    https://github.com/nlohmann/json/pull/4997
+
+PR # 4995 | Non-test C/C++ files:   0 /   4 | Commits:  1 | Head SHA: fa670d7fd6c76e46a504c6349d3c8a8a945ed05f | ⬆️ Bump github/codeql-action from 4.31.2 to 4.31.3
+    https://github.com/nlohmann/json/pull/4995
+
+PR # 4992 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: d8233e47b750892b52e1a825d117a753c16dcaef | ⬆️ Bump actions/dependency-review-action from 4.8.1 to 4.8.2
+    https://github.com/nlohmann/json/pull/4992
+
+PR # 4991 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 20a9a320e6b9bf12feb4186283a31cab8e4ac6fc | ⬆️ Bump mkdocs-material from 9.6.23 to 9.7.0 in /docs/mkdocs
+    https://github.com/nlohmann/json/pull/4991
+
+PR # 4990 | Non-test C/C++ files:   0 /  12 | Commits:  1 | Head SHA: ffb5ed66ac8eb13dd020378097c2a6427cc79a33 | ⬆️ Bump step-security/harden-runner from 2.13.1 to 2.13.2
+    https://github.com/nlohmann/json/pull/4990
+
+PR # 4988 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 003d4250732a8c508b89b83ce1d64247681ac97f | ⬆️ Bump returntocorp/semgrep-action from fcd5ab7459e8d91cb1777481980d1b18b4fc6735 to 713efdd345f3035192eaa63f56867b88e63e4e5d
+    https://github.com/nlohmann/json/pull/4988
+
+PR # 4987 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 7ad8ecaa779daa37257978412fd9d2d7ea828b2b | ⬆️ Bump mkdocs-git-revision-date-localized-plugin from 1.4.7 to 1.5.0 in /docs/mkdocs
+    https://github.com/nlohmann/json/pull/4987
+
+PR # 4986 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 6cc3dab9315e8341c4ed82c1751e034ee52b57c7 | ⬆️ Bump mkdocs-material from 9.6.22 to 9.6.23 in /docs/mkdocs
+    https://github.com/nlohmann/json/pull/4986
+
+PR # 4985 | Non-test C/C++ files:   0 /   2 | Commits:  1 | Head SHA: d3c30da19f8455ba97149f820cbee432d1cff18e | Harden runners
+    https://github.com/nlohmann/json/pull/4985
+
+PR # 4982 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 9cf568577174de94ec43faa6d3df4dd58232e521 | Fix security issues in Semgrep workflow
+    https://github.com/nlohmann/json/pull/4982
