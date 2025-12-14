@@ -1,19 +1,13 @@
 === Pull Requests sorted by NON-TEST C/C++ files changed ===
 
-PR # 4960 | Non-test C/C++ files: 150 / 153 | Commits:  1 | Head SHA: 16e6e50187da017a308b79c0a61ba53121ccb21f | Update REUSE
+PR # 4960 | Non-test C/C++ files:  48 / 153 | Commits:  1 | Head SHA: 16e6e50187da017a308b79c0a61ba53121ccb21f | Update REUSE
     https://github.com/nlohmann/json/pull/4960
-
-PR # 4954 | Non-test C/C++ files:   7 /  11 | Commits: 35 | Head SHA: 0b1202b5974d599361ef84de6e701b56b681e763 | Fix CI
-    https://github.com/nlohmann/json/pull/4954
-
-PR # 4897 | Non-test C/C++ files:   6 /  20 | Commits: 14 | Head SHA: 1c5c8d3dd938e02f27675e438018ed97d4b04e3a | Fix Windows CI
-    https://github.com/nlohmann/json/pull/4897
-
-PR # 4963 | Non-test C/C++ files:   4 /   6 | Commits:  4 | Head SHA: 71c0e165e185fe4160c6f2b63bf852b3ed76064c | Add char8_t* overload for _json and _json_pointer
-    https://github.com/nlohmann/json/pull/4963
 
 PR # 4921 | Non-test C/C++ files:   4 /  10 | Commits:  1 | Head SHA: 12c53b1f4958a1dab5697c3960a199788d3ef112 | chore: fix typos
     https://github.com/nlohmann/json/pull/4921
+
+PR # 4963 | Non-test C/C++ files:   2 /   6 | Commits:  4 | Head SHA: 71c0e165e185fe4160c6f2b63bf852b3ed76064c | Add char8_t* overload for _json and _json_pointer
+    https://github.com/nlohmann/json/pull/4963
 
 PR # 4957 | Non-test C/C++ files:   2 /   2 | Commits:  5 | Head SHA: 81d859f5a93241405ffef811338d0ce931191597 | Address CWG issue 2521
     https://github.com/nlohmann/json/pull/4957
@@ -89,3 +83,9 @@ PR # 4985 | Non-test C/C++ files:   0 /   2 | Commits:  1 | Head SHA: d3c30da19f
 
 PR # 4982 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 9cf568577174de94ec43faa6d3df4dd58232e521 | Fix security issues in Semgrep workflow
     https://github.com/nlohmann/json/pull/4982
+
+PR # 4981 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: cf1b5b66e0a9b7715a24f15b6b8c3f3ba4e9f0b7 | Fix security issues in flawfinder workflow
+    https://github.com/nlohmann/json/pull/4981
+
+PR # 4980 | Non-test C/C++ files:   0 /   1 | Commits:  1 | Head SHA: 09773575ac3cb06d755c84003ec4b0b47062bc3a | Add Semgrep workflow for code scanning
+    https://github.com/nlohmann/json/pull/4980

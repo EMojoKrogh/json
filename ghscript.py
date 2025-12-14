@@ -51,7 +51,7 @@ def is_test_file(filename):
     lower = filename.lower()
 
     # directory-based detection
-    if lower.startswith("test/") or "/test/" in lower or "/tests/" in lower:
+    if lower.startswith("test/") or lower.startswith("tests/") or "/test/" in lower or "/tests/" in lower:
         return True
 
     # filename-based detection (suffixes)
