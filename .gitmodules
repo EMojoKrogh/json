@@ -1,0 +1,3 @@
+[submodule "json_test_data"]
+	path = json_test_data
+	url = https://github.com/nlohmann/json_test_data.git
